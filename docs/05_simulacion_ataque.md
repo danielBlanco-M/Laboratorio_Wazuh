@@ -51,6 +51,6 @@ Desde Kali Linux se ejecuta el siguiente comando:
 ```bash
 nmap -sS -p- 192.168.1.13
 ```
-![alt text](/screenshots/Ataque-Nmap.png)
+![alt text](screenshots/Ataque-Nmap.png)
 
 ---
