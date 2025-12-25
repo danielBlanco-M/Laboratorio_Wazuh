@@ -76,14 +76,3 @@ El objetivo es observar:
 * Cómo Wazuh correlaciona los eventos.
 * Cómo se generan alertas y se visualizan en el dashboard.
 
-## Alcance educativo
-
-Este laboratorio no tiene fines maliciosos. Todo el contenido está orientado a:
-
-* Aprendizaje en ciberseguridad defensiva.
-* Práctica de análisis SOC.
-* Comprensión de herramientas ampliamente usadas en entornos profesionales.
-
----
-
-Este documento servirá como base para el resto del laboratorio, donde se detallarán la instalación, configuración y pruebas prácticas de Wazuh y Suricata.
