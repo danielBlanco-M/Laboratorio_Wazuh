@@ -95,7 +95,7 @@ sudo systemctl status wazuh-indexer
 sudo systemctl status wazuh-dashboard
 ```
 ---
-![alt text](/screenshots/dashboard-status.png)
+![alt text](screenshots/dashboard-status.png)
 ## 7. Acceso al Dashboard
 
 Desde un navegador seaccede a:
@@ -105,7 +105,7 @@ https://192.168.1.10
 ```
 
 Acepta la advertencia del certificado (autofirmado) e inicia sesión con las credenciales generadas.
-![alt text](/screenshots/login-wazuh.png)
+![alt text](screenshots/login-wazuh.png)
 
 ---
 
@@ -137,5 +137,3 @@ Una vez instalado el servidor:
 * Script oficial: [https://packages.wazuh.com](https://packages.wazuh.com)
 
 ---
-
-✔️ **Instalación de Wazuh Server completada mediante script automático oficial.**
