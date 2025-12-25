@@ -1,4 +1,4 @@
- 🖧 Network Description
+# 🖧 Network Description
 
 Este laboratorio simula una red local orientada a la detección y monitorización de amenazas mediante **Wazuh** y **Suricata**, permitiendo la ejecución de ataques controlados desde un host atacante y su posterior detección.
 ![alt text](screenshots/topologia.png)
