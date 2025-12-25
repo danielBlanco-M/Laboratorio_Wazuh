@@ -114,4 +114,3 @@ sudo systemctl restart wazuh-agent
 
 ---
 
-✔️ **Suricata integrado correctamente como NIDS en el agente Ubuntu y monitorizado por Wazuh.**
