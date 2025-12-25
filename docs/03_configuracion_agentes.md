@@ -78,7 +78,7 @@ Comprueba el estado:
 ```bash
 sudo systemctl status wazuh-agent
 ```
-![alt text](/screenshots/status-agent.png)
+![alt text](screenshots/status-agent.png)
 
 ---
 ## 6. Verificación desde el Wazuh Manager
@@ -92,7 +92,7 @@ sudo /var/ossec/bin/agent_control -lc
 El agente debería aparecer como **Active**.
 
 ---
-![alt text](/screenshots/agent-dashboard.png)
+![alt text](screenshots/agent-dashboard.png)
 
 ## 7. Puertos utilizados
 
@@ -121,4 +121,3 @@ sudo systemctl restart wazuh-agent
 
 ---
 
-✔️ **Instalación del agente Wazuh completada correctamente en la topología definida.**
