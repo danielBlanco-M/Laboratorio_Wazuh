@@ -17,7 +17,7 @@ y aqui se muestra como quedan registrados en el dashboard
 Una vez realizamos el ping y escaneo de puertos de Nmap vamos al dashboard de nuestro agente
 y tendremos un registro de las alertas que este ha generado
 
-![alt text](/screenshots/Alerta-Nmap.png)
+![alt text](screenshots/Alerta-Nmap.png)
 
 Si entramos a la información de la alerta podemos encontrar información como:
 
@@ -26,7 +26,7 @@ Si entramos a la información de la alerta podemos encontrar información como:
 * Puerto origen
 * Puerto destino
 
-![alt_text](/screenshots/Log-Alerta-Nmap.png)
+![alt_text](screenshots/Log-Alerta-Nmap.png)
 
 Log entero:
 
